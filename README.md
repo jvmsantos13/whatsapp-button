@@ -15,7 +15,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 *Link do projeto:* https://jvmsantos13.github.io/whatsapp-button/
 
-![](/img/gifanimado.gif)
 
 ## Autor
 João Victor Monteiro <br />

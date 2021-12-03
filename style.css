@@ -1,0 +1,22 @@
+body {
+  background: #bab8b5;
+  text-align: center;
+}
+
+.botao-whatpp {
+  width: 60px;
+  height: 60px;
+  position: fixed;
+  right: 25px;
+  bottom: 40px;
+  background: #25d366;
+  color: #FFF;
+  border-radius: 40px;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: 2px 2px 3px #999;
+}
+
+.icone-whatsapp {
+  margin-top: 10px;
+}
